@@ -1,2 +1,2 @@
 # module5-solution
-Solution 5
+Module 5 Coding Assignment
